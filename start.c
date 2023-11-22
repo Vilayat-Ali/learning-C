@@ -7,7 +7,6 @@ struct Person
 
 int main(int argc, char *argv[])
 {
-    struct Person ali = {1};
-    printf("%d", ali.id);
+    printf("Hello World!");
     return 0;
 }
